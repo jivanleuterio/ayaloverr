@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-image: url(photos/istockphoto-1365092728-612x612.jpg);
+    background-size: 100%;
+}
+.h1 {
+    padding-bottom: 0%;
+}
+.tab2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.tab2 th {
+    color: lightcoral;
+    padding: 4px;
+}
+.h2 {
+    border-bottom: solid lightcoral 2px;
+    text-align: right;
+}
+.null {
+    position: absolute;
+    margin-top: 1.15%;
+    width: 80%;
+    border-bottom: solid lightcoral 2px;
+}
